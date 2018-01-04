@@ -1,0 +1,10 @@
+option java_package = "com.forever.zhb.proto";
+option java_outer_classname = "NewsProto";
+ 
+message News {  
+ required string id = 1;  
+ required string title = 2;  
+ optional string content = 3;  
+ optional int64 createTime = 4;
+}  
+  
