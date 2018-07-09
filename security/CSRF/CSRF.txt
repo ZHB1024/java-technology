@@ -1,0 +1,5 @@
+
+参考网址：
+https://www.ibm.com/developerworks/cn/web/1102_niugang_csrf/
+
+CSRF（Cross Site Request Forgery, 跨站域请求伪造）是一种网络的攻击方式
